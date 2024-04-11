@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript,React,Python**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rajendrayadav02/](https://www.linkedin.com/in/rajendrayadav02/)
+- 👨‍💻 know more about me [https://www.linkedin.com/in/rajendrayadav02/](https://www.linkedin.com/in/rajendrayadav02/)
 
 - 💬 Ask me about **frontend**
 
